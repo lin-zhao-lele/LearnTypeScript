@@ -1,5 +1,9 @@
 TypeScript开发入门
 =================
+## youtube 地址
+
+https://www.youtube.com/watch?v=_wltEKw3BI0&list=PLliocbKHJNwtCfLQu5U3LF_AS-wuP6M7w
+
 
 TypeScript语言的开发学习课程，希望您能在本套课程中学到您想学习的知识。
 
